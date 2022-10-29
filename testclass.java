@@ -1,8 +1,11 @@
 public class testclass {
 
     public static void main(String[] args) {
-        // main에서 작성한거
-        String hi = "hi from main branch";
+        // sub에서 작성한거
+        String hi2 = "hi from sub branch";
+
+
+
     }
 }
 
