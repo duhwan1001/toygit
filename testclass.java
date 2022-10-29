@@ -4,8 +4,7 @@ public class testclass {
         // sub에서 작성한거
         String hi1 = "hi from main branch";
 
-
-
+        String hi2 = "hi from sub Branch";
     }
 }
 
